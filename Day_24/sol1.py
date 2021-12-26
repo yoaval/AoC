@@ -48,4 +48,3 @@ print(s.check())
 m = s.model()
 print(''.join([str(m[d]) for d in digits]))
 s.pop()
-
